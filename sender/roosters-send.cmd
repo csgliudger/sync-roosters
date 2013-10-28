@@ -1,6 +1,8 @@
 @echo off
 REM Roostersynchronisatie naar hq-web-20
 REM
+REM Deze code wordt beheerd op github.com/csgliudger/sync-roosters
+REM
 REM Gemaakt:     1 maart 2012 door Jan Bouma
 REM Gewijzigd:   1 maart 2012 door Jan Bouma
 REM
