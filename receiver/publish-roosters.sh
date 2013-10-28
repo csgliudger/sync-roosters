@@ -1,5 +1,8 @@
 #!/bin/sh
-# sync-roosters.sh
+# roosters-publish.sh
+#
+# Deze code wordt beheerd op github.com/csgliudger/sync-roosters
+#
 # Gemaakt:      1 mrt 2012 - Jan Bouma
 # Gewijzigd:    1 mrt 2012 - Jan Bouma
 rm -rf /var/sync/roosters/roosters.tar.bz2
